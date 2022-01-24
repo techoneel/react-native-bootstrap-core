@@ -1,0 +1,24 @@
+{
+  "name": "react-native-bootstrap-core",
+  "version": "0.0.1",
+  "description": "Helps us using bootstrap our way in react native for web, android and ios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techoneel/react-native-bootstrap-core.git"
+  },
+  "keywords": [
+    "react-native",
+    "bootstrap",
+    "javascript"
+  ],
+  "author": "techoneel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techoneel/react-native-bootstrap-core/issues"
+  },
+  "homepage": "https://github.com/techoneel/react-native-bootstrap-core#readme"
+}
