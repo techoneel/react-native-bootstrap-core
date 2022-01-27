@@ -1,6 +1,5 @@
 import React from "react";
 import { Button, IconButton } from "react-native-paper";
-import CoreClasses from "../../CoreClasses";
 import { getEffectiveStyle } from "../../CoreUtil";
 import { Default_CoreStyles } from "../../styles/Default_CoreStyles";
 

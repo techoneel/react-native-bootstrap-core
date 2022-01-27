@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/techoneel/react-native-bootstrap-core/issues"
   },
-  "homepage": "https://github.com/techoneel/react-native-bootstrap-core#readme"
+  "homepage": "https://github.com/techoneel/react-native-bootstrap-core#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.64.3",
+    "react-native-paper": "^4.11.2"
+  }
 }
