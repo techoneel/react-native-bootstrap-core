@@ -14,10 +14,14 @@ import Core_Text from "./components/content/Core_Text";
 import Core_TextInput from "./components/content/Core_TextInput";
 import ResponsiveImage from "./components/content/ResponsiveImage";
 
-export { CoreClasses };
-export { CoreView, Container, Column, Row };
-export { CoreAlert, CoreLoader };
 export {
+  CoreClasses,
+  CoreView,
+  Container,
+  Column,
+  Row,
+  CoreAlert,
+  CoreLoader,
   Core_Button,
   Core_Image,
   Core_ImageBackground,
