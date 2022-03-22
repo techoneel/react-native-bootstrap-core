@@ -1,6 +1,6 @@
 {
   "name": "react-native-bootstrap-core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Helps us using bootstrap our way in react native for web, android and ios.",
   "main": "index.js",
   "scripts": {

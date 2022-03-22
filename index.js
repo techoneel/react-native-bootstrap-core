@@ -3,12 +3,26 @@ import CoreView from "./components/layout/CoreView";
 import Container from "./components/layout/Container";
 import Column from "./components/layout/Column";
 import Row from "./components/layout/Row";
-import { View } from "react-native";
+import CoreAlert from "./components/common/CoreAlert";
+import CoreLoader from "./components/common/CoreLoader";
 
-export { CoreClasses, CoreView };
-// module.exports = { CoreView };
-// module.exports = { Container };
-// module.exports = { Column };
-// module.exports = { Row };
+import Core_Button from "./components/content/Core_Button";
+import Core_Image from "./components/content/Core_Image";
+import Core_ImageBackground from "./components/content/Core_ImageBackground";
+import Core_Picker from "./components/content/Core_Picker";
+import Core_Text from "./components/content/Core_Text";
+import Core_TextInput from "./components/content/Core_TextInput";
+import ResponsiveImage from "./components/content/ResponsiveImage";
 
-export class TestView extends View {}
+export { CoreClasses };
+export { CoreView, Container, Column, Row };
+export { CoreAlert, CoreLoader };
+export {
+  Core_Button,
+  Core_Image,
+  Core_ImageBackground,
+  Core_Picker,
+  Core_Text,
+  Core_TextInput,
+  ResponsiveImage,
+};
